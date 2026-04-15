@@ -1778,6 +1778,10 @@ sigs:
           name: Ivan Valdes
           company: Inmar Intelligence
           email: ivan@vald.es
+        - github: jberkus
+          name: Josh Berkus
+          company: Red Hat
+          email: jberkus@redhat.com
         - github: jmhbnz
           name: James Blair
           company: Red Hat

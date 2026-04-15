@@ -33,6 +33,7 @@ The Chairs of the SIG run operations and processes governing the SIG.
 
 * Ivan Valdes (**[@ivanvc](https://github.com/ivanvc)**), Inmar Intelligence
 * James Blair (**[@jmhbnz](https://github.com/jmhbnz)**), Red Hat
+* Josh Berkus (**[@jberkus](https://github.com/jberkus)**), Red Hat
 * Siyuan Zhang (**[@siyuanfoundation](https://github.com/siyuanfoundation)**), Google
 
 ### Technical Leads
